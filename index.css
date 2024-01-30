@@ -1,9 +1,107 @@
+#sss{
+    background-color: rgb(188, 125, 48);
+}
+#first{
+    background-color: rgb(251, 157, 240)
+}
+
+#secound{
+    background-color: rgb(243, 138, 9);
+    padding: 10px;
+    margin: 1px;
+}
+#third{
+    background-color: rgba(12, 215, 36, 0.559);
+    padding: 20px;
+    margin: 1px;
+}
+
 h1{
-    color: bisque;
+    border: 10px solid;
+    text-align: center;
+    background-color: rgb(35, 194, 114);
+    color: aqua;
 }
-h2{ 
-    background-color: aquamarine;
+h2{
+    text-align: center;
+    border:  6px dotted;
+    margin: 5%;
+    padding: 4px;
+    color: rgb(237, 141, 14);
+    background-color: rgb(38, 68, 68);
 }
-h3{
-    color: antiquewhite;
+#seku{
+    width: 110px;
 }
+
+.Sakib{
+    font-size: 18px;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span{
+    color: rgb(255, 2, 2);
+}
+#me{
+    color: rgb(7, 250, 7);
+}
+#ami{
+    font-size: 25px;
+}
+#two{
+    font-size: larger;
+}
+#ss{
+    border: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    color: azure;
+    text-align: center;
+    background-color: rgb(245, 173, 4);
+}
+.fa {
+    border: 0px solid;
+    padding: 10px;
+    width: px;
+    text-decoration: none;
+    
+  }
+  /* youtube */
+  .fa-youtube{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+  
+  }
+  
+  /* facebook */
+  .fa-facebook{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 156, 245);
+  
+  }
+  /* instagram */
+  .fa-instagram{
+  color: rgb(255, 1, 52);
+  background-color: rgb(214, 202, 187);
+
+  
+  }
+  .inpt{
+    padding: 10px;
+    margin: 5px 5px 5px 45%;
+    border-radius: 18x;
+   
+  }
+  #inpt{
+  
+    border-color: rgb(205, 203, 203);
+    padding: 1px;
+    margin: 5px 5px 5px 50%;
+  }
+  .alada{
+   
+  }
+  #st{
+    text-align: center;
+  }

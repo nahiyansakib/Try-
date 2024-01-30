@@ -1,0 +1,92 @@
+#ak{
+    text-align: center;
+    font-size: 28px;
+    color: blue;
+    background-color: aqua;
+  }
+  /*dui*/
+  #dui{
+    background-color: rgb(17, 255, 0);
+  
+    border-radius: 5px;
+    padding: 1px 5px 14px 5px;
+    
+  }
+  
+    
+  
+  /*first*/
+  #first{
+    color: rgb(244, 248, 248);
+    background-color: rgb(42, 145, 230);
+    border: 100%;
+    border-radius: 10%;
+    padding: 10px;
+    text-decoration: none;
+   
+    
+  }
+  
+  /*secound*/
+  #secound{
+    color: rgb(255, 255, 255);
+    background-color: rgb(253, 3, 3);
+    border: 100%;
+    border-radius: 10%;
+    padding: 10px;
+  }
+  /*third*/
+  #third{
+    color: rgb(45, 118, 179);
+    background-color: rgb(209, 218, 226);
+    border: 10px;
+    border-radius: 1px;
+    padding: 10px;
+    text-decoration: none;
+  }
+  .inpt{
+    padding: 10px;
+    margin: 5px 5px 5px 1px;
+    border-radius: 18x;
+    border: solid 5px;
+  }
+  #inpt{
+    border: 10px solid;
+    border-color: rgb(240, 198, 198);
+    padding: 1px;
+    margin: 5px 5px 5px 60px;
+  }
+  .fa {
+    border: 0px solid;
+    padding: 10px;
+    width: px;
+    text-decoration: none;
+    
+  }
+  /* youtube */
+  .fa-youtube{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+  
+  }
+  
+  /* facebook */
+  .fa-facebook{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 156, 245);
+  
+  }
+  /* instagram */
+  .fa-instagram{
+  color: rgb(255, 1, 52);
+  background-color: rgb(214, 202, 187);
+  
+  
+  }
+  
+  #skb{
+    background-color: rgb(11, 131, 131);
+    border: 5px;
+    border-radius: 8px;
+  padding: 1px;
+  }
